@@ -1,0 +1,27 @@
+# Игнорирование папок и файлов PyInstaller
+build/
+dist/
+*.spec
+
+# Файлы виртуального окружения
+.venv/
+env/
+venv/
+
+# Кэш Python и временные файлы
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Логи и базы данных
+*.log
+*.sqlite3
+
+# Папки IDE
+.vscode/
+.idea/
+
+# OS файлы
+.DS_Store
+Thumbs.db

@@ -1,6 +1,6 @@
 # Converter
 
-![Converter](https://via.placeholder.com/800x400?text=Converter+App)
+![alt text](<Снимок экрана 2025-10-22 211839.png>)
 
 Приложение для конвертации изображений между различными форматами с поддержкой создания ICO файлов с выбором размеров.
 
@@ -143,3 +143,4 @@ Windows 7 Поддержка
 Telegram: @kosmonafftsb
 Email: kosmonaffter@yandex.ru
 Год: 2025
+![alt text](<Снимок экрана 2025-10-22 211849.png>)

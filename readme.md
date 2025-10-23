@@ -143,4 +143,5 @@ Windows 7 Поддержка
 Telegram: @kosmonafftsb
 Email: kosmonaffter@yandex.ru
 Год: 2025
+```
 ![Интерфейс приложения](icon/picture1.png)

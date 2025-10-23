@@ -1,6 +1,6 @@
 # Converter
 
-icon/Снимок _1.png
+![Снимок 1](icon/Снимок_1.png)
 
 Приложение для конвертации изображений между различными форматами с поддержкой создания ICO файлов с выбором размеров.
 
@@ -143,4 +143,4 @@ Windows 7 Поддержка
 Telegram: @kosmonafftsb
 Email: kosmonaffter@yandex.ru
 Год: 2025
-![alt text](icon/Снимок_2.png)
+![Снимок 2](icon/Снимок_2.png)
